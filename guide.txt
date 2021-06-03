@@ -1,0 +1,6 @@
+FOlder -> cmd.exe
+Cmd line -> python manage.py runserver
+chrome-> localhost:8000
+localhost:8000/homepage
+
+linking image file - {% static 'img/filename.jpg' %}
