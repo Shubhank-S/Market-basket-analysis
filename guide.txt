@@ -4,3 +4,10 @@ chrome-> localhost:8000
 localhost:8000/homepage
 
 linking image file - {% static 'img/filename.jpg' %}
+
+git init
+git add .
+git commit -m "Fixing bug"
+git push origin main
+heroku create app_name
+git push heroku main
